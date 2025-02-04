@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+nav {
+    background-color: bisque;
+}
+
+main {
+    background-color: bisque;
+    font-size: medium;
+}
+
+footer{
+    background-color: grey;
+}
+
+li {
+    display: block;
+    width: 200;
+}
+
+h1 {
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(25, 3, 104);
+}
+
+p {
+    line-height: 100%;
+}
